@@ -36,3 +36,8 @@ npm run build
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the application, or [http://localhost:3000/admin/crm](http://localhost:3000/admin/crm) for the CRM dashboard.
+
+## 🛡️ Verification
+- Production build: `npm run build` passed 100% clean.
+- Lead API: POST/GET/PATCH endpoints operational.
+- CRM Dashboard: Available at `/admin/crm`.
